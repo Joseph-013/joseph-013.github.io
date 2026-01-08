@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /assets/8ibr33yfgi8ty8tb_123d12_x4.file
